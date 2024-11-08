@@ -1,0 +1,5 @@
+BASE_URL="https://restful-booker.herokuapp.com"
+CREATE_BOOKING_PATH="/booking"
+AUTH_BOOKING_PATH="/auth"
+DELETE_BOOKING_PATH="/booking/"
+GET_BOOKING_PATH="/booking/"
